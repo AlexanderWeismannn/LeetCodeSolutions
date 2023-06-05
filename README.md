@@ -1,6 +1,6 @@
 # LeetCodeSolutions
 Repo for my practice leetcode solutions.
-## 🌟 - Best problems to try imo.
+#### 🌟 - Best problems to try imo.
 
 ## Problems Solved:
 - (15.) 3 Sum 🌟
