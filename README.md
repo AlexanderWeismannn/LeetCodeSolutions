@@ -2,6 +2,7 @@
 Repo for my practice leetcode solutions.
 
 ## Problems Solved:
+- (15.) 3 Sum
 - (49.) Group Anagrams
 - (125.) Valid Palindrome
 - Two Sum Unsorted (Optimized)
