@@ -6,6 +6,7 @@ Repo for my practice leetcode solutions.
 - (11.) Container With Most Water
 - (15.) 3 Sum 🌟
 - (20.) Valid Parentheses 🌟
+- (22.) Generate Parentheses 🌟 (Greate Recursion Example)
 - (42.) Trapping Rain Water 🌟
 - (49.) Group Anagrams
 - (125.) Valid Palindrome
