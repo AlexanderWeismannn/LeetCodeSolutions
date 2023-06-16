@@ -6,7 +6,7 @@ Repo for my practice leetcode solutions.
 - (11.) Container With Most Water
 - (15.) 3 Sum 🌟
 - (20.) Valid Parentheses 🌟
-- (22.) Generate Parentheses 🌟 (Greate Recursion Example)
+- (22.) Generate Parentheses 🌟 (Great Recursion Example)
 - (42.) Trapping Rain Water 🌟
 - (49.) Group Anagrams
 - (84.) Largest Rectangle in Histogram 🌟 (Very Difficult / Monotonic Increasing Stack)
@@ -19,5 +19,6 @@ Repo for my practice leetcode solutions.
 - (238.) Product of Array Except Self
 - (242.) Valid Anagram 🌟
 - (347.) Top K Frequent Element
+- (704.) Binary Search (Basic Binary Search Alg Refresher)
 - (739.) Daily Temperatures 🌟 (Monotonic Decreasing or Equal Stack Example)
 - (853.) Car Fleet
