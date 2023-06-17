@@ -9,6 +9,7 @@ Repo for my practice leetcode solutions.
 - (22.) Generate Parentheses 🌟 (Great Recursion Example)
 - (42.) Trapping Rain Water 🌟
 - (49.) Group Anagrams
+- (74.) Search a 2D Matrix
 - (84.) Largest Rectangle in Histogram 🌟 (Very Difficult / Monotonic Increasing Stack)
 - (125.) Valid Palindrome
 - Two Sum Unsorted (Optimized)
