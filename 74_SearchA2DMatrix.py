@@ -6,7 +6,7 @@ class Solution:
         # We know that if our target is not in between that range than we can skip that row
         for row in matrix:
             # If it is between that row then we aply the binary search algorithm
-            if row[0] <= target <= row[-1]:
+            if target <= row[-1]:
                 a,b = 0, len(row)-1
                 mid = int(len(row)/2)
                 while a <= b:
