@@ -15,6 +15,7 @@ Repo for my practice leetcode solutions.
 - Two Sum Unsorted (Optimized)
 - (128.) Two Sum 2 Input Array Is Sorted 🌟
 - (150.) Evaluate Reverse Polish Notation 🌟 (Great Stack Example)
+- (153.) Minimum Value In A Rotated Sorted Array 🌟 (Weird Use Of Binary Search, will make your brain melt) 
 - (155.) Min Stack 🌟
 - (217.) Contains Duplicate
 - (238.) Product of Array Except Self
