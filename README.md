@@ -7,6 +7,7 @@ Repo for my practice leetcode solutions.
 - (15.) 3 Sum 🌟
 - (20.) Valid Parentheses 🌟
 - (22.) Generate Parentheses 🌟 (Great Recursion Example)
+- (33.) Search in Rotated Sorted Array 🌟
 - (42.) Trapping Rain Water 🌟
 - (49.) Group Anagrams
 - (74.) Search a 2D Matrix
