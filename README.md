@@ -13,6 +13,7 @@ Repo for my practice leetcode solutions.
 - (49.) Group Anagrams
 - (74.) Search a 2D Matrix
 - (84.) Largest Rectangle in Histogram 🌟 (Very Difficult / Monotonic Increasing Stack)
+- (121.) Best Time To Buy and Sell Stock (Sliding Window Introduction)
 - (125.) Valid Palindrome
 - Two Sum Unsorted (Optimized)
 - (128.) Two Sum 2 Input Array Is Sorted 🌟
