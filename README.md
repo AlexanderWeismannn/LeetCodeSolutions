@@ -26,6 +26,7 @@ Repo for my practice leetcode solutions.
 - (242.) Valid Anagram 🌟
 - (347.) Top K Frequent Element
 - (424.) Longest Repeating Character Replacement 🌟
+- (567.) Permutation In String (HARD and NOT FUN to do)
 - (704.) Binary Search (Basic Binary Search Alg Refresher)
 - (739.) Daily Temperatures 🌟 (Monotonic Decreasing or Equal Stack Example)
 - (853.) Car Fleet
