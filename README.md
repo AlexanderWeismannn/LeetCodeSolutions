@@ -22,6 +22,7 @@ Repo for my practice leetcode solutions.
 - (150.) Evaluate Reverse Polish Notation 🌟 (Great Stack Example)
 - (153.) Minimum Value In A Rotated Sorted Array 🌟 (Weird Use Of Binary Search, will make your brain melt) 
 - (155.) Min Stack 🌟
+- (206.) Reverse Linked List 🌟 (Classic Linked List Problem) 
 - (217.) Contains Duplicate
 - (238.) Product of Array Except Self
 - (242.) Valid Anagram 🌟
