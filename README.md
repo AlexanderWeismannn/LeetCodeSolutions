@@ -26,6 +26,7 @@ Repo for my practice leetcode solutions.
 - (217.) Contains Duplicate
 - (238.) Product of Array Except Self
 - (242.) Valid Anagram 🌟
+- (292.) Sliding Window Maximum 🌟 (Deque example)
 - (347.) Top K Frequent Element
 - (424.) Longest Repeating Character Replacement 🌟
 - (567.) Permutation In String (HARD and NOT FUN to do)
