@@ -8,6 +8,7 @@ Repo for my practice leetcode solutions.
 - (11.) Container With Most Water
 - (15.) 3 Sum 🌟
 - (20.) Valid Parentheses 🌟
+- (21.) Merge Two Sorted Lists (Nice Easy Linked List Warmup Question)
 - (22.) Generate Parentheses 🌟 (Great Recursion Example)
 - (33.) Search in Rotated Sorted Array 🌟
 - (42.) Trapping Rain Water 🌟
