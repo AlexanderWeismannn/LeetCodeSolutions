@@ -20,6 +20,7 @@ Repo for my practice leetcode solutions.
 - (125.) Valid Palindrome
 - Two Sum Unsorted (Optimized)
 - (128.) Two Sum 2 Input Array Is Sorted 🌟
+- (143.) Reorder List
 - (150.) Evaluate Reverse Polish Notation 🌟 (Great Stack Example)
 - (153.) Minimum Value In A Rotated Sorted Array 🌟 (Weird Use Of Binary Search, will make your brain melt) 
 - (155.) Min Stack 🌟
