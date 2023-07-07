@@ -7,6 +7,7 @@ Repo for my practice leetcode solutions.
 - (4.) Median of Two Sorted Arrays (BAD PROBLEM IMO)
 - (11.) Container With Most Water
 - (15.) 3 Sum 🌟
+- (19.) Remove Nth Node From End of List 🌟
 - (20.) Valid Parentheses 🌟
 - (21.) Merge Two Sorted Lists (Nice Easy Linked List Warmup Question)
 - (22.) Generate Parentheses 🌟 (Great Recursion Example)
