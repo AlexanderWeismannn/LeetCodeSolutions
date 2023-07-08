@@ -21,6 +21,7 @@ Repo for my practice leetcode solutions.
 - (125.) Valid Palindrome
 - Two Sum Unsorted (Optimized)
 - (128.) Two Sum 2 Input Array Is Sorted 🌟
+- (138.) Copy List with Random Pointer 🌟
 - (141.) Linked List Cycle (Floyds Tortoise / Hare Algorithm) 🌟
 - (143.) Reorder List
 - (150.) Evaluate Reverse Polish Notation 🌟 (Great Stack Example)
