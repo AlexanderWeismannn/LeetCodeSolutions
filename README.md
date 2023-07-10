@@ -3,6 +3,7 @@ Repo for my practice leetcode solutions.
 #### 🌟 - Best problems to try.
 
 ## Problems Solved:
+- (2.) Add Two Numbers 🌟
 - (3.) Longest Substring Without Repeating Characters 🌟
 - (4.) Median of Two Sorted Arrays (BAD PROBLEM IMO)
 - (11.) Container With Most Water
