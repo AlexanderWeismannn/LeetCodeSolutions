@@ -8,6 +8,7 @@ Repo for my practice leetcode solutions.
 - (4.) Median of Two Sorted Arrays (BAD PROBLEM IMO)
 - (11.) Container With Most Water
 - (15.) 3 Sum 🌟
+- (19.) Remove Nth Node From End of List 🌟
 - (20.) Valid Parentheses 🌟
 - (21.) Merge Two Sorted Lists (Nice Easy Linked List Warmup Question)
 - (22.) Generate Parentheses 🌟 (Great Recursion Example)
@@ -21,6 +22,8 @@ Repo for my practice leetcode solutions.
 - (125.) Valid Palindrome
 - Two Sum Unsorted (Optimized)
 - (128.) Two Sum 2 Input Array Is Sorted 🌟
+- (138.) Copy List with Random Pointer 🌟
+- (141.) Linked List Cycle (Floyds Tortoise / Hare Algorithm) 🌟
 - (143.) Reorder List
 - (150.) Evaluate Reverse Polish Notation 🌟 (Great Stack Example)
 - (153.) Minimum Value In A Rotated Sorted Array 🌟 (Weird Use Of Binary Search, will make your brain melt) 
