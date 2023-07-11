@@ -32,6 +32,7 @@ Repo for my practice leetcode solutions.
 - (217.) Contains Duplicate
 - (238.) Product of Array Except Self
 - (242.) Valid Anagram 🌟
+- (287.) Find the Duplicate Number (Bad Problem. Utilizes Floyd's Alg and Linear List Cycle from an array )
 - (292.) Sliding Window Maximum 🌟 (Deque example)
 - (347.) Top K Frequent Element
 - (424.) Longest Repeating Character Replacement 🌟
