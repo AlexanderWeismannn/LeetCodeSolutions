@@ -25,6 +25,7 @@ Repo for my practice leetcode solutions.
 - (138.) Copy List with Random Pointer 🌟
 - (141.) Linked List Cycle (Floyds Tortoise / Hare Algorithm) 🌟
 - (143.) Reorder List
+- (146.) LRU Cache 🌟 (Great Doubly Linked List Problem)
 - (150.) Evaluate Reverse Polish Notation 🌟 (Great Stack Example)
 - (153.) Minimum Value In A Rotated Sorted Array 🌟 (Weird Use Of Binary Search, will make your brain melt) 
 - (155.) Min Stack 🌟
