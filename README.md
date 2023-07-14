@@ -12,6 +12,7 @@ Repo for my practice leetcode solutions.
 - (20.) Valid Parentheses 🌟
 - (21.) Merge Two Sorted Lists (Nice Easy Linked List Warmup Question)
 - (22.) Generate Parentheses 🌟 (Great Recursion Example)
+- (23.) Merge K Sorted Lists 🌟 (Fantastic Linked List question; Build off of (21.))
 - (33.) Search in Rotated Sorted Array 🌟
 - (42.) Trapping Rain Water 🌟
 - (49.) Group Anagrams
