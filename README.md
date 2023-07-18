@@ -41,6 +41,7 @@ Repo for my practice leetcode solutions.
 - (292.) Sliding Window Maximum 🌟 (Deque example)
 - (347.) Top K Frequent Element
 - (424.) Longest Repeating Character Replacement 🌟
+- (543.) Diameter of Binary Tree (Backpropagation and Trees)
 - (567.) Permutation In String (HARD and NOT FUN to do)
 - (704.) Binary Search (Basic Binary Search Alg Refresher)
 - (739.) Daily Temperatures 🌟 (Monotonic Decreasing or Equal Stack Example)
