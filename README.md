@@ -20,6 +20,7 @@ Repo for my practice leetcode solutions.
 - (74.) Search a 2D Matrix
 - (76.) Minimum Window Substring 🌟
 - (84.) Largest Rectangle in Histogram 🌟 (Very Difficult / Monotonic Increasing Stack)
+- (100.) Same Tree 🌟 (Great Recursive Solution)
 - (121.) Best Time To Buy and Sell Stock (Sliding Window Introduction)
 - (125.) Valid Palindrome
 - Two Sum Unsorted (Optimized)
