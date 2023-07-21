@@ -45,6 +45,7 @@ Repo for my practice leetcode solutions.
 - (424.) Longest Repeating Character Replacement 🌟
 - (543.) Diameter of Binary Tree (Backpropagation and Trees)
 - (567.) Permutation In String (HARD and NOT FUN to do)
+- (572.) Subtree of Another Tree (More like a Medium) 🌟
 - (704.) Binary Search (Basic Binary Search Alg Refresher)
 - (739.) Daily Temperatures 🌟 (Monotonic Decreasing or Equal Stack Example)
 - (853.) Car Fleet
