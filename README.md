@@ -37,6 +37,7 @@ Repo for my practice leetcode solutions.
 - (206.) Reverse Linked List 🌟 (Classic Linked List Problem) 
 - (217.) Contains Duplicate
 - (226.) Invert Binary Tree 🌟 (Classic Binary Tree Problem)
+- (235.) Lowest Common Ancestor of a Binary Search Tree (Non Recursive Binary Tree)
 - (238.) Product of Array Except Self
 - (242.) Valid Anagram 🌟
 - (287.) Find the Duplicate Number (Bad Problem. Utilizes Floyd's Alg and Linear List Cycle from an array )
